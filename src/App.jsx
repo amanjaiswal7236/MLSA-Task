@@ -27,12 +27,12 @@ const siteProps = {
   name: "Aman Jaiswal",
   title: "Front End Developer",
   email: "amanjaiswal7236@gmail.com",
-  gitHub: "https://github.com/amanjaiswal7236",
-  instagram: "https://www.instagram.com/amanjaiswal7236/",
-  linkedIn: "https://www.linkedin.com/in/aman-jaiswal-abab26264/",
+  gitHub: "amanjaiswal7236",
+  instagram: "amanjaiswal7236/",
+  linkedIn: "aman-jaiswal-abab26264/",
   medium: "",
   twitter: "",
-  youTube: "www.youtube.com/@amanjaiswal7630",
+  youTube: "@amanjaiswal7630",
 };
 
 const primaryColor = "#4E567E";
